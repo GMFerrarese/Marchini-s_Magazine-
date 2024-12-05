@@ -1,1 +1,1 @@
-# coding-project-template
+# coding-project-Marchnini_Magazine
